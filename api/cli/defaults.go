@@ -4,6 +4,7 @@ package cli
 
 const (
 	defaultBindAddress         = ":9000"
+	defaultContextPath         = "/portainer"
 	defaultTunnelServerAddress = "0.0.0.0"
 	defaultTunnelServerPort    = "8000"
 	defaultDataDirectory       = "/data"
